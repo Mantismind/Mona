@@ -1,8 +1,9 @@
 ---
 title: Workflow
-date: 2017-08-21 12:11:55 -03:00
+date: {}
+published: true
 ---
+# Idea-to-Market Workflow
 
-Idea-to-Market Workflow
-===========
 Bla bla bla
+And bla bla bla
