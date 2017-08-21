@@ -2,7 +2,7 @@
 title: Documentation
 published: true
 ---
-# Mona Framework Documentation
+# Documentation
 
 Mona's goal is to define a generic high level framework, that applies to most of the use cases, and then go deeper with specialized sub-frameworks for each specific use case.
 
