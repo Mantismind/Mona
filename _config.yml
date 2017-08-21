@@ -1,6 +1,6 @@
 ---
 title: Mona
-timezone: UTC
+timezone: America/Montevideo
 collections:
   posts:
     title: Posts
