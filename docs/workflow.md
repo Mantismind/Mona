@@ -4,5 +4,43 @@ published: true
 ---
 # App Lifecycle Workflow
 
-Bla bla bla  
-And bla bla bla
+- Define
+	- Identify use case
+	- Define version
+	- Define stack
+		- Components
+		- Tools
+		- Infrastructure
+- Plan
+- Develop
+	- Setup Development environment
+    - Start app
+    - Develop
+- Release
+	- Development
+    	- Build
+        - Deploy
+        - Automated test
+        - UAT
+	- Stage
+    	- Build
+        - Deploy
+        - Automated test
+        - UAT
+	- Production
+    	- Build
+        - Deploy
+        - Automated test
+        - UAT
+- Monitor
+	- Performance
+    - Crashes
+    - Usage
+- Support
+	- Incidents
+    - Help
+    	- Documentation
+        - Community
+        - Contact
+    - Feedback
+- Market
