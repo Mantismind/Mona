@@ -1,6 +1,5 @@
 ---
 title: Workflow
-published: true
 ---
 # Idea-to-Market Workflow
 
