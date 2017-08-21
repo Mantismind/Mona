@@ -1,6 +1,7 @@
 ---
 title: Documentation
 published: true
+navigation_weight: 1
 ---
 # Documentation
 
