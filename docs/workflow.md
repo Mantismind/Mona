@@ -1,8 +1,7 @@
 ---
+date: 2017-08-21 12:11:55 -0300
 title: Workflow
-date: 2017-08-20 21:00:00 -03:00
 ---
-
 Idea-to-Market Workflow
 ===========
 Bla bla bla
