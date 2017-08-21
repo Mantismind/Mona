@@ -1,8 +1,8 @@
 ---
 title: Workflow
+published: true
 ---
 # Idea-to-Market Workflow
 
-Bla bla bla
-
+Bla bla bla  
 And bla bla bla
