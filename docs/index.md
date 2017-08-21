@@ -13,7 +13,7 @@ The vision is to achive a level of abstraction that allows to conceptually defin
 Mona Framework is composed by the following areas:
 - Architecture
 - Components
-- [Workflow](/workflow)
+- [Workflow](/mona/workflow)
 - Tools
 - Best Practices
 
