@@ -11,6 +11,8 @@ published: true
 		- Components
 		- Tools
 		- Infrastructure
+        	- Components
+            - Tools
 - Plan
 - Develop
 	- Setup Development environment
@@ -21,16 +23,24 @@ published: true
     	- Build
         - Deploy
         - Automated test
+        	- Unit
+            - Regression
         - UAT
 	- Stage
     	- Build
         - Deploy
         - Automated test
+        	- Unit
+            - Regression
+            - Performance
         - UAT
 	- Production
     	- Build
         - Deploy
         - Automated test
+        	- Unit
+            - Regression
+            - Performance
         - UAT
 - Monitor
 	- Performance
