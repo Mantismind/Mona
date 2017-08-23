@@ -3,53 +3,52 @@
 ```
 
 ```
-
 - Define
-	- Identify use case
-	- Define version
-	- Define stack
-		- Components
-		- Tools
-		- Infrastructure
-        	- Components
+    - Identify use case
+    - Define version
+    - Define stack
+        - Components
+        - Tools
+        - Infrastructure
+            - Components
             - Tools
 - Plan
 - Develop
-	- Setup Development environment
+    - Setup Development environment
     - Start app
     - Develop
 - Release
-	- Development
-    	- Build
+    - Development
+        - Build
         - Deploy
         - Automated test
-        	- Unit
+            - Unit
             - Regression
         - UAT
-	- Stage
-    	- Build
+    - Stage
+        - Build
         - Deploy
         - Automated test
-        	- Unit
+            - Unit
             - Regression
             - Performance
         - UAT
-	- Production
-    	- Build
+    - Production
+        - Build
         - Deploy
         - Automated test
-        	- Unit
+            - Unit
             - Regression
             - Performance
         - UAT
 - Monitor
-	- Performance
+    - Performance
     - Crashes
     - Usage
 - Support
-	- Incidents
+    - Incidents
     - Help
-    	- Documentation
+        - Documentation
         - Community
         - Contact
     - Feedback
