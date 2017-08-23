@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Documentation](docs/index.md)
 * [Workflow](docs/workflow.md)
 
 
