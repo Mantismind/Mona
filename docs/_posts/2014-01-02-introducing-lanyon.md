@@ -12,7 +12,7 @@ Mona Framework is composed by the following areas:
 
 * Architecture
 * Components
-* [Workflow](/workflow.md)
+* [Workflow](/mona/workflow.md)
 * Tools
 * Best Practices
 
