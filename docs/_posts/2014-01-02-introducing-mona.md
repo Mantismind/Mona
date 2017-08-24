@@ -12,10 +12,6 @@ Mona Framework is composed by the following areas:
 
 * Architecture
 * Components
-* [Workflow](/mona/workflow.md)
+* Workflow
 * Tools
 * Best Practices
-
-In a first phase, Mona will takcle the following use case:
-
-* iOS and Android app with local data
