@@ -23,3 +23,6 @@ version:
 
 github:
   repo: https://github.com/mantismind/mona/
+
+gems:
+  - jekyll-readme-index
