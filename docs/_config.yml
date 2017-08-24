@@ -20,3 +20,6 @@ author:
 
 # Custom vars
 version:             
+
+github:
+  repo: https://github.com/mantismind/mona/
