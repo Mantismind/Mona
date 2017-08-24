@@ -1,38 +1,21 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Documentation
 ---
+Mona's goal is to define a generic high level framework, that applies to most of the use cases, and then go deeper with specialized sub-frameworks for each specific use case.
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+This goal tries to be achieved by abstracting the software architecture and the lifecycle workflow as much as possible, independently from current solutions.
 
-### Built on Poole
+The vision is to achieve a level of abstraction that allows to conceptually define the app functionality and automatically get the app created, the source code, UIs, APIs, documentation and deployment to any platform like Desktop and Mobile Web, iOS, Android, Windows, macOS, Linux, etc.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Mona Framework is composed by the following areas:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Architecture
+* Components
+* [Workflow](/workflow.md)
+* Tools
+* Best Practices
 
-### Lanyon features
+In a first phase, Mona will takcle the following use case:
 
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+* iOS and Android app with local data
