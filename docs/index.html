@@ -4,7 +4,7 @@ title: Home
 ---
 
 {% capture my-content %}
-    {% include_relative README.md %}
+{% include_relative README.md %}
 {% endcapture %}
 
-{{ my-content }}
+{{ my-content | markdownify }}
