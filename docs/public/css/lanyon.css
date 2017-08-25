@@ -414,21 +414,23 @@ a.pagination-item:hover {
  * on the right side.
  */
 
-.layout-reverse .sidebar {
-  left: auto;
-  right: -14rem;
-}
-.layout-reverse .sidebar-toggle {
-  left: auto;
-  right: 1rem;
-}
+@media (max-width: 30.1em) {
+  .sidebar {
+    left: auto;
+    right: -14rem;
+  }
+  .sidebar-toggle {
+    left: auto;
+    right: 1rem;
+  }
 
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar,
-.layout-reverse #sidebar-checkbox:checked ~ .wrap,
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(-14rem);
-      -ms-transform: translateX(-14rem);
-          transform: translateX(-14rem);
+  #sidebar-checkbox:checked ~ .sidebar,
+  #sidebar-checkbox:checked ~ .wrap,
+  #sidebar-checkbox:checked ~ .sidebar-toggle {
+    -webkit-transform: translateX(-14rem);
+        -ms-transform: translateX(-14rem);
+            transform: translateX(-14rem);
+  }
 }
 
 
@@ -556,7 +558,7 @@ a.pagination-item:hover {
 }
 
 /* Only one tweak for a reverse layout */
-@media (min-width: 30.1em) {
+@media (max-width: 30.1em) {
   .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
     box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
   }
