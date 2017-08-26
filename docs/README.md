@@ -14,6 +14,6 @@ Mona Framework is composed by the following areas:
 * Tools
 * Best Practices
 
-In a first phase, Mona will takcle the following use case:
+## Mona Framework applied
 
-* iOS and Android app with local data
+* Local data management mobile app
